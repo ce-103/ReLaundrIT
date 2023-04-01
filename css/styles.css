@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500&family=Raleway:ital,wght@0,200;1,200&family=Roboto:ital,wght@0,100;0,300;0,400;1,300&display=swap');
+
+@import url('components/container.css');
+
+@import url('components/btn-blue.css');
+
+@import url('components/banner.css');
+
+@import url('components/card.css');
+
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	margin: 0px;
+}
+
+h1, h2, h3{
+	font-family: 'Noto Sans JP' sans-serif;
+	font-weight: bold;
+	margin-top: 60px;
+}
+
+
+a {
+	text-decoration: none;
+}
+
